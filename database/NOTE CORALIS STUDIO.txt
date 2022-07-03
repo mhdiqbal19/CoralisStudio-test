@@ -1,0 +1,11 @@
+
+- DATABASE :coralisstudio.sql
+- Fitur Forgot Password via EMAIL
+
+ADMINISTRATOR
+USERNAME : miqbal@local.host
+PASSWORD : 123456
+
+MEMBER
+USERNAME : member@local.host
+PASSWORD : 123456
